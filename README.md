@@ -2,8 +2,10 @@
 
 Provides before and after hooks for collections on the client and the server.
 
-This is just for examle. It's the same code used in EventedMind, but I've
+This is just for example. It's the same code used in EventedMind, but I've
 decided not to publish it as a package.
+
+This code provides similar functionality to, and is not to be confused with, the widely used [collection-hooks](https://github.com/matb33/meteor-collection-hooks) package [on Atmosphere](https://atmospherejs.com/package/collection-hooks).
 
 ## Usage
 
