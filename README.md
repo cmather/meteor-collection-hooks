@@ -2,23 +2,10 @@
 
 Provides before and after hooks for collections on the client and the server.
 
-## Installation
+This is just for examle. It's the same code used in EventedMind, but I've
+decided not to publish it as a package.
 
-Clone the repository into your local packages directory. Make sure you've set
-the `PACKAGE_DIRS` environment variable to point to this directory so meteor can
-find it.
-
-```
-> git clone git@github.com:EventedMind/meteor-collection-hooks collection-hooks
-```
-
-Then add the package just like you would any other Meteor package.
-
-```
-> meteor add collection-hooks
-```
-
-## Use
+## Usage
 
 ```javascript
 Items = new Meteor.Collection('items');
